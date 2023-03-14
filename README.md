@@ -10,6 +10,10 @@
 
 - 🌱 I’m currently learning **SpringBoot & Microservices Development**
 
+- 💬 Talks about programming and to cloud techologies
+
+- 🕺 I’m looking to collaborate on **OpenSource Projects**
+
 - 👨‍💻 All of my projects are available at [https://github.com/safvan8?tab=repositories](https://github.com/safvan8?tab=repositories)
 
 - 📫 How to reach me **safvanpmcz@gmail.com**

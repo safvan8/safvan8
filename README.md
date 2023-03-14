@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **SpringBoot & Microservices Development**
 
-- 💬 Talks about programming and cloud techologies
+- 💬 Talks about programming and cloud technologies.
 
 - 🕺 I’m looking to collaborate on **OpenSource Projects**
 

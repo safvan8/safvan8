@@ -17,7 +17,8 @@
 - 👨‍💻 All of my projects are available [here](https://github.com/safvan8?tab=repositories)
 
 
-- 📫 How to reach me **safvanpmcz@gmail.com**
+- 📫 Reach me at [safvanpmcz@gmail.com](mailto:safvanpmcz@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

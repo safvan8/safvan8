@@ -14,7 +14,7 @@
 
 - 🕺 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/safvan8?tab=repositories](My Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/safvan8?tab=repositories] (My Projects)
 
 - 📫 How to reach me **safvanpmcz@gmail.com**
 

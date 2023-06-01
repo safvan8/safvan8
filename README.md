@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=30&duration=2001&pause=1000&color=CFF776&width=436&lines=Hi++%F0%9F%91%8B%2C+I+am+Safvan+P;Welcome+to+my+Profile!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=30&duration=2001&pause=1000&color=0d4259&width=436&lines=Hi++%F0%9F%91%8B%2C+I+am+Safvan+P;Welcome+to+my+Profile!+)](https://git.io/typing-svg)
 
 <h3 align="center">A Passionate Java  Developer from India with a strong skillset in Java, SQL, JDBC, Hibernate, Servlets, JSP , Spring and Spring Boot. Actively expanding my knowledge by learning Spring Boot, Microservices Development.</h3>
 <p align="left"> <a href="https://twitter.com/safvan_8" target="blank"><img src="https://img.shields.io/twitter/follow/safvan_8?logo=twitter&style=for-the-badge" alt="safvan_8" /></a> </p>

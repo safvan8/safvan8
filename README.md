@@ -22,6 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/safvan_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="safvan_8" height="30" width="40" /></a>
+
+  ### ⚙️ &nbsp;GitHub Analytics
 <a href="https://www.linkedin.com/in/safvan-p/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/safvan-p/" height="30" width="40" /></a>
 <a href="https://leetcode.com/safvanp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/safvanp/" height="30" width="40" /></a>
 </p>

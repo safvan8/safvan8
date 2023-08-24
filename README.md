@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=30&duration=2001&pause=1000&color=2cef05&width=436&lines=Hi++%F0%9F%91%8B%2C+I+am+Safvan+P;Welcome+to+my+Profile!+)](https://git.io/typing-svg)
+Hi I'm Safvan, 
 
 <h3 align="center">A Passionate Java  Developer from India with a strong skillset in Java, SQL, JDBC, Hibernate, Servlets, JSP ,JSTL, Spring and Spring Boot. Actively expanding my knowledge by learning SpringBoot Microservices Development.</h3>
 

@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **SpringBoot Project**
 
-- 🌱 I’m currently learning **SpringBoot & Microservices Development**
+- 🌱 I’m currently exploring **Distributed application development**
 
 - 💬 Talks about programming and cloud technologies.
 
